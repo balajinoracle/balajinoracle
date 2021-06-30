@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Balaji
+- 👋 Hi, I’m Balaji babu Nagamalla
 - 👀 I’m a DBA cum Developer along with expertise in Devops and containerization technologies. interested in Exploring the new technologies.
 - 🌱 I’m currently learning (Will update soon)
 - 💞️ I’m looking to collaborate on (Will update soon)
